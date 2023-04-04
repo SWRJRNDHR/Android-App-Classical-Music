@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/back2"
+
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Classical Music"
+        android:textColor="#fff"
+        android:layout_gravity="start"
+        android:textAlignment="textStart"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:id="@+id/textView"
+        android:background="#101010"/>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="#ffffff" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@+id/download"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="62dp"
+        android:alpha="0.2"
+        android:background="@drawable/back"
+        android:src="@drawable/classicon" />
+    <ListView
+        android:id="@+id/lvSongs"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:visibility="invisible"
+        />
+
+
+
+
+
+    <Button
+        android:id="@+id/pause"
+        android:layout_width="65dp"
+        android:layout_height="45dp"
+
+        android:layout_marginBottom="45dp"
+
+        android:background="@drawable/pause8"
+        android:gravity="center"
+        android:textAlignment="gravity"
+        android:textColor="#000000"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/download"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/download"
+        android:textColor="#000"
+        android:alpha="0.4"
+        android:layout_marginRight="13dp"
+        android:layout_marginEnd="13dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/pause"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/nowPlaying"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="27dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginStart="19dp"
+        android:textColor="#fff"
+        android:textSize="15dp"
+        android:text="Now Playing:  "
+        android:layout_above="@+id/pause"
+        android:layout_toRightOf="@+id/imageView1"
+        android:layout_toEndOf="@+id/imageView1" />
+
+    <TextView
+        android:id="@+id/songName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="TextView"
+        android:textSize="22dp"
+        android:textColor="#fff"
+        android:layout_alignBaseline="@+id/nowPlaying"
+        android:layout_alignBottom="@+id/nowPlaying"
+        android:layout_toEndOf="@+id/nowPlaying"
+        android:layout_toRightOf="@+id/nowPlaying" />
+
+
+</RelativeLayout>

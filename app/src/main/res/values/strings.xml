@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Classical Songs</string>
+    <string name="title_activity_favorite_list">FavoriteList</string>
+    <string name="home_activity">BEETHOVEN</string>
+    <string name="first_list">MOZART</string>
+    <string name="second_list">CHOPIN</string>
+    <string name="fourth_activity">OTHER</string>
+    <string name="all_activity">ALL SONGS</string>
+    <string name="admob_interstitial_id">ca-app-pub-2081856024983169/7802943730</string>
+    <string name="admob_interstitial_id_allsongs">ca-app-pub-2081856024983169/6002540068</string>
+    <string name="admob_interstitial_id_beethoven">ca-app-pub-2081856024983169/1392037753</string>
+    <string name="admob_interstitial_id_mozart">ca-app-pub-2081856024983169/2578300372</string>
+    <string name="admob_interstitial_id_chopin">ca-app-pub-2081856024983169/7639055366</string>
+    <string name="admob_interstitial_id_other">ca-app-pub-2081856024983169/3372507291</string>
+    <string name="info">Classical music is art music produced or rooted in the traditions of Western culture,
+        including both liturgical (religious) and secular music.he Classical era, from about 1750 to 1820, established many
+        of the norms of composition, presentation, and style, and was also when the piano became the predominant keyboard instrument.
+        The basic forces required for an orchestra became somewhat standardized (although they would grow as the potential of a wider
+        array of instruments was developed in the following centuries). Chamber music grew to include ensembles with as many as
+        8 to 10 performers for serenades. Opera continued to develop, with regional styles in Italy, France, and German-speaking lands.
+        The opera buffa, a form of comic opera, rose in popularity. The symphony came into its own as a musical form, and the concerto
+        was developed as a vehicle for displays of virtuoso playing skill. Orchestras no longer required a harpsichord (which had been
+        part of the traditional continuo in the Baroque style), and were often led by the lead violinist (now called the concertmaster).
+        Wind instruments became more refined in the Classical era. While double-reed instruments like the oboe and bassoon became somewhat
+        standardized in the Baroque, the clarinet family of single reeds was not widely used until Mozart expanded its role in orchestral,
+        chamber, and concerto settings.[55]
+    </string>
+    <string name="BeethovenInfo">Ludwig van Beethovenbaptised 17 December 1770[1] – 26 March 1827)
+        was a German composer and pianist. A crucial figure in the transition between the Classical and Romantic eras
+        in Classical music, he remains one of the most recognised and influential of all composers.
+    Born in Bonn, then the capital of the Electorate of Cologne and part of the Holy Roman Empire,
+        Beethoven displayed his musical talents at an early age and was taught by his father Johann van Beethoven
+        and by composer and conductor Christian Gottlob Neefe. At the age of 21 he moved to Vienna,
+        where he began studying composition with Joseph Haydn and gained a reputation as a virtuoso pianist.
+        He lived in Vienna until his death. By his late 20s his hearing began to deteriorate, and by the last decade of his
+        life he was almost completely deaf. In 1811 he gave up conducting and performing in public but continued to compose;
+        many of his most admired works come from these last 15 years of his life.</string>
+
+    <string name="MozartInfo">Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791)
+    was a prolific and influential composer of the classical era.
+        Born in Salzburg, Mozart showed prodigious ability from his earliest childhood. Already competent
+        on keyboard and violin, he composed from the age of five and performed before European royalty.
+        At 17, Mozart was engaged as a musician at the Salzburg court, but grew restless and traveled in search of
+        a better position. While visiting Vienna in 1781, he was dismissed from his Salzburg position.
+        He chose to stay in the capital, where he achieved fame but little financial security.
+        During his final years in Vienna, he composed many of his best-known symphonies, concertos, and operas, and portions
+        of the Requiem, which was largely unfinished at the time of his early death at the age of 35. The circumstances of his
+        early death have been much mythologized.
+        He composed more than 600 works, many acknowledged as pinnacles of symphonic, concertante, chamber, operatic, and
+        choral music.
+        He is among the most enduringly popular of classical composers, and his influence is profound on subsequent Western
+        art music. Ludwig van Beethoven composed his own early works in the shadow of Mozart, and Joseph Haydn wrote:
+        "posterity will not see such a talent again in 100 years".</string>
+
+    <string name="ChopinInfo">Fryderyk Franciszek Chopin – the most outstanding Polish composer and pianist,
+        born in the village of Żelazowa Wola in the district of Sochaczew. The composer and his family held his date of
+        birth to be 1 March 1810, yet the certificate of baptism signed in the parish church of Brochów is dated 22 February.
+        That discrepancy has still not been entirely resolved, although today it is the date celebrated by Chopin and his
+        family that is more often used. Chopin’s first piano teacher, Adalbert Zywny, had already introduced him to the music
+        of Bach and the Viennese classics. As a pianist, however, Chopin is considered to have been self-taught:
+        he doesn’t seem to have needed to practise very much. His more extended early works were decorative and brilliant,
+        in the line of display pieces by touring virtuosos like Hummel. After giving two big concerts in Warsaw at which he
+        introduced his two piano concertos, Chopin left for Vienna in November 1830, staying eight months, during which he
+        learnt of the Warsaw Uprising. He never saw Poland again. He made his way to Paris, where he soon felt at home,
+        since there were many Polish émigrés in the French capital. His music sold well, and from 1833 it was published
+        simultaneously in England, France and Germany. Chopin wrote Nocturnes and shorter pieces in dance forms, such as Mazurkas, Waltzes and Polonaises, throughout his career.
+        He found his mature style early, with the first set of Études, Op. 10 (1829–32). These are still, with their sequel,
+        the Op. 25 set, the cornerstone of modern piano technique, as well as powerfully poetic pieces.</string>
+
+</resources>
